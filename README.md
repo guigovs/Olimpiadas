@@ -1,4 +1,4 @@
-## Projeto: Atletas do Brasil
+## Projeto: Atletas do Brasil (Olimpíadas)
 
 ### Descrição
 Este projeto web é um diretório de atletas brasileiros. Ele permite que o usuário pesquise por atletas ou esportes, exibindo informações relevantes como nome, descrição e links para mais detalhes.
