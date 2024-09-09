@@ -21,39 +21,5 @@ Este projeto web é um diretório de atletas brasileiros. Ele permite que o usu�
 ### Estrutura de arquivos
 * **index.html:** Arquivo principal da página web.
 * **styles.css:** Arquivo de estilo para a página.
-* **dados.js:** Arquivo contendo os dados dos atletas (JSON).
+* **dados.js:** Arquivo contendo os dados dos atletas.
 * **app.js:** Arquivo contendo a lógica da aplicação em JavaScript.
-
-### Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request.
-
-**Observações:**
-
-* **Personalize:** Adapte este README para melhor se adequar ao seu projeto. Inclua informações adicionais como instruções de instalação, dependências, licença, etc.
-* **Detalhes:** Se você quiser adicionar mais detalhes sobre a implementação da pesquisa ou outras funcionalidades, pode incluir seções específicas.
-* **Imagens:** Considere adicionar imagens ou capturas de tela para ilustrar o projeto.
-
-**Exemplo com mais detalhes:**
-
-```markdown
-## Projeto: Atletas do Brasil
-
-**Um diretório online de atletas brasileiros.**
-
-### Como funciona a pesquisa?
-A pesquisa é realizada utilizando JavaScript. Ao digitar um termo no campo de pesquisa e pressionar Enter, a aplicação:
-1. **Coleta o termo:** Obtém o texto digitado pelo usuário.
-2. **Busca nos dados:** Percorre a lista de atletas, comparando o termo de pesquisa com o nome, descrição e tags de cada atleta.
-3. **Exibe os resultados:** Apresenta os atletas que correspondem à pesquisa em uma lista formatada.
-
-### Estrutura de dados
-O arquivo `dados.js` contém um array de objetos, onde cada objeto representa um atleta e possui as seguintes propriedades:
-* `titulo`: Nome do atleta.
-* `descricao`: Breve descrição do atleta.
-* `tags`: Palavras-chave relacionadas ao atleta (e.g., esporte, modalidade).
-* `link`: Link para mais informações sobre o atleta.
-
-### Próximos passos
-* **Adicionar mais atletas:** Expandir a base de dados com mais informações sobre atletas brasileiros.
-* **Implementar filtros:** Permitir filtrar os resultados por esporte, modalidade ou outras categorias.
-* **Melhorar a interface:** Criar uma interface mais visualmente atraente e responsiva.
