@@ -17,4 +17,10 @@ let dados = [
         link: "https://pt.wikipedia.org/wiki/Beatriz_Souza",
         tags: "judô judo judoka"
     },
+    {
+        titulo: "Hugo Calderano",
+        descricao: "Hugo Calderano é um dos principais tenistas de mesa brasileiros. Conhecido por sua habilidade técnica e jogo ofensivo, ele conquistou diversos títulos internacionais e é considerado um dos melhores atletas da modalidade no mundo. Calderano representa o Brasil em diversas competições e é um grande ídolo do esporte nacional.",
+        link: "https://pt.wikipedia.org/wiki.org/wiki/Hugo_Calderano",
+        tags: "tênis de mesa ping pong"
+    },
 ]
